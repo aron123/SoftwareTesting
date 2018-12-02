@@ -101,6 +101,7 @@
                 <configuration>
                   <excludes>
                     <exclude>hu/uni/miskolc/iit/softwaretesting/dtoTypes/*</exclude>
+                    <exclude>hu/uni/miskolc/iit/softwaretesting/web/**</exclude>
                   </excludes>
                 </configuration>
                 <executions>
