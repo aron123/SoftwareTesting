@@ -100,7 +100,7 @@
                 <version>0.7.6.201602180812</version>
                 <configuration>
                   <excludes>
-                    <exclude>hu/uni/miskolc/iit/softwaretesting/dtoTypes/*<exclude>
+                    <exclude>hu/uni/miskolc/iit/softwaretesting/dtoTypes/*</exclude>
                   </excludes>
                 </configuration>
                 <executions>
