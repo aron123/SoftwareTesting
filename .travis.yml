@@ -1,5 +1,4 @@
 language: java
 sudo: false
-before_install: cd bundle
 script: mvn clean verify jacoco:report
 after_success: mvn coveralls:report
